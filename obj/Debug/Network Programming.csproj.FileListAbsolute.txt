@@ -1,0 +1,11 @@
+C:\Users\vital\OneDrive\Desktop\chatGPT Projects\Network Programming\Network Programming\bin\Debug\Network Programming.exe.config
+C:\Users\vital\OneDrive\Desktop\chatGPT Projects\Network Programming\Network Programming\bin\Debug\Network Programming.exe
+C:\Users\vital\OneDrive\Desktop\chatGPT Projects\Network Programming\Network Programming\bin\Debug\Network Programming.pdb
+C:\Users\vital\OneDrive\Desktop\chatGPT Projects\Network Programming\Network Programming\obj\Debug\Network Programming.csproj.AssemblyReference.cache
+C:\Users\vital\OneDrive\Desktop\chatGPT Projects\Network Programming\Network Programming\obj\Debug\Network Programming.csproj.SuggestedBindingRedirects.cache
+C:\Users\vital\OneDrive\Desktop\chatGPT Projects\Network Programming\Network Programming\obj\Debug\Network_Programming.Form1.resources
+C:\Users\vital\OneDrive\Desktop\chatGPT Projects\Network Programming\Network Programming\obj\Debug\Network_Programming.Properties.Resources.resources
+C:\Users\vital\OneDrive\Desktop\chatGPT Projects\Network Programming\Network Programming\obj\Debug\Network Programming.csproj.GenerateResource.cache
+C:\Users\vital\OneDrive\Desktop\chatGPT Projects\Network Programming\Network Programming\obj\Debug\Network Programming.csproj.CoreCompileInputs.cache
+C:\Users\vital\OneDrive\Desktop\chatGPT Projects\Network Programming\Network Programming\obj\Debug\Network Programming.exe
+C:\Users\vital\OneDrive\Desktop\chatGPT Projects\Network Programming\Network Programming\obj\Debug\Network Programming.pdb
